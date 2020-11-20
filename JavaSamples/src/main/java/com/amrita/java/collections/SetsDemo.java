@@ -1,7 +1,7 @@
 package com.amrita.java.collections;
 
 import java.util.*;
-//kk
+
 
 
 public class SetsDemo {
