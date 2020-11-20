@@ -1,0 +1,39 @@
+package com.amrita.java.collections;
+
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Iterator;
+import java.util.List;
+
+public class ArrayListDemo {
+	
+	public static void main(String[] args) {
+		
+	//	ArrayList<String> family = new ArrayList<String>();
+		List<String> family = new ArrayList<String>();
+	
+		family.add("Tejas");
+		family.add("Aarna");
+		family.add("Amrita");
+		family.remove("Amrita");
+		family.add(0,"Amrita");
+		family.add("Amrita");
+		family.add("");
+		Iterator<String> iterator=family.iterator();
+		while(iterator.hasNext())
+			System.out.println(iterator.next());
+		
+		System.out.println(family.size());
+		System.out.println(family.indexOf("Amrita"));
+		System.out.println(family.lastIndexOf("Amrita"));
+		
+		Collections.sort(family);
+		System.out.println("Family toString called" + family.toString());
+
+		String[] numbers1Array = new String[family.size()];
+		numbers1Array = family.toArray(numbers1Array);
+		System.out.println("Array " + numbers1Array[1] +Arrays.toString(numbers1Array));
+	}
+}

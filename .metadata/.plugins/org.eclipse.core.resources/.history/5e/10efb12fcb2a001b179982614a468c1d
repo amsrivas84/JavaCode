@@ -1,0 +1,36 @@
+package com.amrita.java.ObjClone;
+
+public class DeepCopy {
+	int i;
+
+	@Override
+	public String toString() {
+		return "DeepCopy [i=" + i + "]";
+	}
+
+	public static void main(String[] args) {
+		DeepCopy dc = new DeepCopy();
+		DeepCopy dc1 = new DeepCopy();
+		dc.i=40;
+		dc1.i=50;
+		System.out.println(dc.toString());
+		System.out.println(dc1.toString());
+		
+		//and clone class dc2
+		
+			DeepCopy dc2;
+			try {
+				dc2 = (DeepCopy) dc1.clone();
+				System.out.println(dc2.toString());
+				System.out.println(dc1.toString());
+			
+			} catch (CloneNotSupportedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+		
+		
+		
+	}
+}

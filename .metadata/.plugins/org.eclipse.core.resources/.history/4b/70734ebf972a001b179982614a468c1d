@@ -1,0 +1,28 @@
+package com.amrita.java.arrays;
+
+import java.util.Arrays;
+
+public class ArrayDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	boolean[] marks = new 	boolean[5];
+ 	int[][] marks1 = new int[2][5];  
+// 	or 
+// 	int marks[] = new int[5];            recommended way is to do as above
+// 	int marks1[][] = new int[2][5];  
+	
+ // Default Values
+ 		// byte,short,int,long-0
+ 		// float,double-0.0
+ 		// boolean false
+ 		// object-null
+
+ 	
+		
+ 	marks[0]= true;
+ 	System.out.println(marks[0]);
+	}
+
+}

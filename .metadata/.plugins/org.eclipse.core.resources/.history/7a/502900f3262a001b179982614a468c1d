@@ -1,0 +1,18 @@
+package com.amrita.java.collections;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class SetsDemo {
+
+	public static void main(String args[]) {
+		// Sets
+		// Sets do not allow duplicates
+		// Lets look at HashSet first. HashSet does not support any ordering.
+		Set<String> family = new HashSet<String>();
+		family.add("Tejas");
+		family.add("Amrita");
+		family.add("Aarna");
+		family.add("Amrita");
+	}
+}

@@ -1,0 +1,21 @@
+package com.amrita.java.collections;
+
+import java.util.Hashtable;
+import java.util.Map;
+
+public class MapDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// Maps
+		// HashMap
+		Map<String, Integer> ageMap = new Hashtable<String, Integer>();
+		ageMap.put("Tejas", 38);
+		ageMap.put("Aarna", 2);
+		ageMap.put("Amrita", 36);
+		ageMap.put("Tejas", 40);
+System.out.println(ageMap.get("Tejas"));
+System.out.println(ageMap);
+	}
+
+}

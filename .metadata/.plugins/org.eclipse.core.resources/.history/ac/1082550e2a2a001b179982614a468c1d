@@ -1,0 +1,37 @@
+package com.amrita.java.collections;
+
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Set;
+import java.util.TreeSet;
+
+public class SetsDemo {
+
+	public static void main(String args[]) {
+		// Sets
+		// Sets do not allow duplicates
+		// Lets look at HashSet first. HashSet does not support any ordering.
+		Set<String> family = new HashSet<String>();
+		family.add("Tejas");
+	//	family.add("Amrita");
+		family.add("Aarna");
+		family.add("Amrita");
+		Iterator<String> iterator = family.iterator();
+		while (iterator.hasNext())
+			System.out.println(iterator.next());
+
+		// Lets look at TreeSet next. TreeSet stores objects in Sorted Order.
+		Set<String> treeSet = new TreeSet<String>();
+		treeSet.add("Tejas");
+		treeSet.add("Amrita");
+		treeSet.add("Aarna");
+		System.out.println("Treeset values printed in sorted order");
+		Iterator<String> iterator1 = treeSet.iterator();
+		while (iterator1.hasNext())
+			System.out.println(iterator1.next());
+		// Objects that are inserted into a TreeSet should be comparable
+
+		// Collections.sort(family); sorting wont work for lists
+	}
+}

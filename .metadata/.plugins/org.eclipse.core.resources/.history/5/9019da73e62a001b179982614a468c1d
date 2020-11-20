@@ -1,0 +1,17 @@
+package com.amrita.java.File;
+
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class WriteFileDemo {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		String str = "Hello world";
+		FileWriter fw = new FileWriter("File.txt");
+		fw.write(str);
+		fw.close();
+		System.out.println("Writing successful");
+	}
+
+}

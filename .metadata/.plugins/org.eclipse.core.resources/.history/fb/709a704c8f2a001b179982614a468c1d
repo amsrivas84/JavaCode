@@ -1,0 +1,81 @@
+package com.amrita.java.collections;
+
+import java.util.*;
+
+
+public class SetsDemo {
+
+	public static void main(String args[]) {
+		// Sets
+		// Sets do not allow duplicates
+		// Lets look at HashSet first. HashSet does not support any ordering.
+		Set<String> family = new HashSet<String>();
+		family.add("Tejas");
+		family.add("fgfggh");
+		family.add("Aarna");
+		family.add("Amrita");
+		Iterator<String> iterator = family.iterator();
+		while (iterator.hasNext())
+			System.out.println(iterator.next());
+
+		// Lets look at TreeSet next. TreeSet stores objects in Sorted Order.
+
+		Set<String> treeSet = new TreeSet<String>();
+
+		treeSet.add("Tejas");
+		treeSet.add("Amrita");
+		treeSet.add("Aarna");
+		System.out.println("Treeset values printed in sorted order");
+		System.out.println(treeSet);// 5
+		Iterator<String> iterator1 = treeSet.iterator();
+		while (iterator1.hasNext())
+			System.out.println(iterator1.next());
+		// Objects that are inserted into a TreeSet should be comparable
+
+		// NavigableSet interface
+		// Two classes implement them - TreeSet and TreeMap
+
+		TreeSet<String> treeSetOrig = new TreeSet<String>();
+		treeSetOrig.add("Tejas");
+		treeSetOrig.add("Amrita");
+		treeSetOrig.add("Aarna");
+		System.out.println("lower" + treeSetOrig.lower("Amrita"));// 5
+		System.out.println(treeSetOrig.floor("Amrita"));
+		System.out.println(treeSetOrig.higher("Amrita"));
+		System.out.println(treeSetOrig.ceiling("Amrita"));
+
+		TreeSet<String> treeSetDesc = (TreeSet<String>) treeSetOrig.descendingSet();
+		System.out.println("Original Treeset" + treeSetOrig);
+		System.out.println("Descended order of treeset" + treeSetDesc);
+		// pollLast returns the last element and
+		// removes it from the set
+		System.out.println(treeSetOrig.pollFirst());
+		System.out.println("Updated Treeset" + treeSetOrig);
+		System.out.println(treeSetOrig.pollLast());
+		System.out.println("Updated Treeset" + treeSetOrig);
+
+		
+		// subSet,headSet,tailSet Methods in TreeSet
+		
+		TreeSet<Integer> intSet = new TreeSet<Integer>();
+		intSet.add(1);
+		intSet.add(2);
+		intSet.add(3);
+		intSet.add(4);
+		intSet.add(5);
+		//TreeSet<Integer> sortedSet = (TreeSet<Integer>) intSet.subSet(2, 4);
+		SortedSet<Integer> sortedSet = intSet.subSet(2, 4);
+		System.out.println(sortedSet);
+		// In the sub set, Lower Limit inclusive - 2 included. Higher limit not
+				// inclusive - 4 excluded.
+		
+		SortedSet<Integer> headSet = intSet.headSet(3);
+		// In the sub set, Higher limit not inclusive - 3 excluded.
+		System.out.println(headSet);
+		
+		SortedSet<Integer> tailSet = intSet.tailSet(4);
+		// In the sub set, Lower limit inclusive - 4 included.
+		System.out.println(tailSet);
+		
+	}
+}

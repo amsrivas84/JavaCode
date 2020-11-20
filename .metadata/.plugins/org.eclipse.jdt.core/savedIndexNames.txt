@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/amritasrivastava/eclipse-workspace-JavaPractice/.metadata/.plugins/org.eclipse.jdt.core
+2195338413.index
+939283709.index
+3473475372.index

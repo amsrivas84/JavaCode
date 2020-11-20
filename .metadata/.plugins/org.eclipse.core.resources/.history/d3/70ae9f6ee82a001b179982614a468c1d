@@ -1,0 +1,16 @@
+package com.amrita.java.File;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class ReadFileDemo {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		FileReader fr = new FileReader("File.txt");
+		int str = fr.read();
+System.out.println(str);
+	}
+
+}

@@ -1,0 +1,26 @@
+package com.amrita.java.collections;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class ArrayListDemo {
+	
+	public static void main(String[] args) {
+		
+		ArrayList<String> family = new ArrayList<String>();
+		family.add("Tejas");
+		family.add("Aarna");
+		family.add("Amrita");
+		family.remove("Amrita");
+		family.add(0,"Amrita");
+		family.add("Amrita");
+		family.add("");
+		Iterator<String> iterator=family.iterator();
+		while(iterator.hasNext())
+			System.out.println(iterator.next());
+		
+		System.out.println(family.size());
+		family.trimToSize();
+		System.out.println(family.size());
+	}
+}
