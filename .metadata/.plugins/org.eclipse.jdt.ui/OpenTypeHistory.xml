@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=DesignPatterns/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.amrita.designpattern.factory{Car.java[Car" modifiers="513" timestamp="1606001373000"/>
+    <typeInfo handle="=DesignPatterns/\/Library\/Java\/JavaVirtualMachines\/jdk-13.0.2.jdk\/Contents\/Home\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/13\/docs\/api\/=/&lt;java.lang(Enum.class[Enum" modifiers="1057" timestamp="1576058192000"/>
+    <typeInfo handle="=DesignPatterns/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.amrita.designpattern.factorykit{Weapon.java[Weapon" modifiers="513" timestamp="1606006263000"/>
+</typeInfoHistroy>

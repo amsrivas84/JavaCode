@@ -6,4 +6,16 @@
 			<item value="org.eclipse.m2e"/>
 		</list>
 	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory-method"/>
+			<item value="/Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory-kit"/>
+			<item value="/Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory"/>
+			<item value="/Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/abstract-factory"/>
+		</list>
+	</section>
 </section>

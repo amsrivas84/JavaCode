@@ -25,13 +25,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.amrita.java.collections.JavaSamples"/>
+			<item value="com.amrita.DesignPatterns"/>
 		</list>
 		<list key="groupId">
-			<item value="com.amrita.java.collections"/>
+			<item value="com.amrita"/>
 		</list>
 		<list key="artifactId">
-			<item value="JavaSamples"/>
+			<item value="DesignPatterns"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -63,5 +63,9 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
