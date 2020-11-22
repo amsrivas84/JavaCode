@@ -758,3 +758,410 @@
 2020-11-20 00:19:07,575 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/main/resources
 2020-11-20 00:19:07,576 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-11-20 00:19:07,576 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/test/resources
+2020-11-20 01:18:51,569 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:18:51,572 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/main/resources
+2020-11-20 01:18:51,576 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:18:51,577 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/test/resources
+2020-11-20 01:18:52,590 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:18:52,591 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/main/resources
+2020-11-20 01:18:52,597 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:18:52,597 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/test/resources
+2020-11-20 01:44:10,560 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:44:10,566 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/main/resources
+2020-11-20 01:44:10,571 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:44:10,571 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/test/resources
+2020-11-20 01:49:57,490 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:49:57,490 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/main/resources
+2020-11-20 01:49:57,492 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:49:57,492 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/test/resources
+2020-11-20 01:53:59,011 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:53:59,014 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/main/resources
+2020-11-20 01:53:59,015 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 01:53:59,015 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/test/resources
+2020-11-20 12:06:04,742 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-20 12:08:26,443 [Worker-13: Creating project "DesignPatterns"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.amrita:DesignPatterns:0.0.1-SNAPSHOT @ /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/pom.xml.
+2020-11-20 12:09:02,542 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-20 12:09:03,171 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/boot/spring-boot-dependencies/2.0.9.RELEASE/spring-boot-dependencies-2.0.9.RELEASE.pom
+2020-11-20 12:09:03,585 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.0.9.RELEASE/spring-boot-dependencies-2.0.9.RELEASE.pom
+2020-11-20 12:09:03,643 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.0.9.RELEASE/spring-boot-dependencies-2.0.9.RELEASE.pom
+2020-11-20 12:09:03,701 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/io/netty/netty-bom/4.1.34.Final/netty-bom-4.1.34.Final.pom
+2020-11-20 12:09:03,719 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.34.Final/netty-bom-4.1.34.Final.pom
+2020-11-20 12:09:03,742 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.34.Final/netty-bom-4.1.34.Final.pom
+2020-11-20 12:09:04,107 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/io/projectreactor/reactor-bom/Bismuth-SR17/reactor-bom-Bismuth-SR17.pom
+2020-11-20 12:09:04,135 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Bismuth-SR17/reactor-bom-Bismuth-SR17.pom
+2020-11-20 12:09:04,155 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Bismuth-SR17/reactor-bom-Bismuth-SR17.pom
+2020-11-20 12:09:04,199 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/eclipse/jetty/jetty-bom/9.4.15.v20190215/jetty-bom-9.4.15.v20190215.pom
+2020-11-20 12:09:04,215 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.15.v20190215/jetty-bom-9.4.15.v20190215.pom
+2020-11-20 12:09:04,236 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.15.v20190215/jetty-bom-9.4.15.v20190215.pom
+2020-11-20 12:09:04,516 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/spring-framework-bom/5.0.13.RELEASE/spring-framework-bom-5.0.13.RELEASE.pom
+2020-11-20 12:09:04,540 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.0.13.RELEASE/spring-framework-bom-5.0.13.RELEASE.pom
+2020-11-20 12:09:04,562 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.0.13.RELEASE/spring-framework-bom-5.0.13.RELEASE.pom
+2020-11-20 12:09:04,787 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/data/spring-data-releasetrain/Kay-SR14/spring-data-releasetrain-Kay-SR14.pom
+2020-11-20 12:09:04,802 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Kay-SR14/spring-data-releasetrain-Kay-SR14.pom
+2020-11-20 12:09:04,822 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Kay-SR14/spring-data-releasetrain-Kay-SR14.pom
+2020-11-20 12:09:05,206 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/data/build/spring-data-build/2.0.14.RELEASE/spring-data-build-2.0.14.RELEASE.pom
+2020-11-20 12:09:05,221 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.0.14.RELEASE/spring-data-build-2.0.14.RELEASE.pom
+2020-11-20 12:09:05,240 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.0.14.RELEASE/spring-data-build-2.0.14.RELEASE.pom
+2020-11-20 12:09:05,541 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/integration/spring-integration-bom/5.0.13.RELEASE/spring-integration-bom-5.0.13.RELEASE.pom
+2020-11-20 12:09:05,557 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.0.13.RELEASE/spring-integration-bom-5.0.13.RELEASE.pom
+2020-11-20 12:09:05,578 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.0.13.RELEASE/spring-integration-bom-5.0.13.RELEASE.pom
+2020-11-20 12:09:05,853 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/security/spring-security-bom/5.0.12.RELEASE/spring-security-bom-5.0.12.RELEASE.pom
+2020-11-20 12:09:05,871 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.0.12.RELEASE/spring-security-bom-5.0.12.RELEASE.pom
+2020-11-20 12:09:05,930 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.0.12.RELEASE/spring-security-bom-5.0.12.RELEASE.pom
+2020-11-20 12:09:06,257 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/session/spring-session-bom/Apple-SR9/spring-session-bom-Apple-SR9.pom
+2020-11-20 12:09:06,271 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Apple-SR9/spring-session-bom-Apple-SR9.pom
+2020-11-20 12:09:06,296 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Apple-SR9/spring-session-bom-Apple-SR9.pom
+2020-11-20 12:09:06,492 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.8.4/jacoco-maven-plugin-0.8.4.pom
+2020-11-20 12:09:06,617 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.8.4/jacoco-maven-plugin-0.8.4.pom
+2020-11-20 12:09:06,641 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.build/0.8.4/org.jacoco.build-0.8.4.pom
+2020-11-20 12:09:06,662 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.build/0.8.4/org.jacoco.build-0.8.4.pom
+2020-11-20 12:09:06,693 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.8.4/jacoco-maven-plugin-0.8.4.jar
+2020-11-20 12:09:06,717 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.8.4/jacoco-maven-plugin-0.8.4.jar
+2020-11-20 12:09:06,901 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-checkstyle-plugin/3.1.0/maven-checkstyle-plugin-3.1.0.jar
+2020-11-20 12:09:06,929 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-checkstyle-plugin/3.1.0/maven-checkstyle-plugin-3.1.0.jar
+2020-11-20 12:09:06,973 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/commonjava/maven/plugins/directory-maven-plugin/0.3.1/directory-maven-plugin-0.3.1.jar
+2020-11-20 12:09:06,986 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/commonjava/maven/plugins/directory-maven-plugin/0.3.1/directory-maven-plugin-0.3.1.jar
+2020-11-20 12:09:07,157 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/iluwatar/urm/urm-maven-plugin/1.4.8/urm-maven-plugin-1.4.8.jar
+2020-11-20 12:09:07,187 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/iluwatar/urm/urm-maven-plugin/1.4.8/urm-maven-plugin-1.4.8.jar
+2020-11-20 12:09:07,286 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.0.0-M5/maven-surefire-plugin-3.0.0-M5.jar
+2020-11-20 12:09:07,303 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.0.0-M5/maven-surefire-plugin-3.0.0-M5.jar
+2020-11-20 12:09:07,372 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mycila/license-maven-plugin/3.0/license-maven-plugin-3.0.jar
+2020-11-20 12:09:07,398 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mycila/license-maven-plugin/3.0/license-maven-plugin-3.0.jar
+2020-11-20 12:09:08,185 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iluwatar:abstract-factory:1.24.0-SNAPSHOT @ /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/abstract-factory/pom.xml.
+2020-11-20 12:09:09,132 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:09:09,133 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/abstract-factory/src/main/resources
+2020-11-20 12:09:09,149 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:09:09,149 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/abstract-factory/src/test/resources
+2020-11-20 12:09:09,183 [Worker-18: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abstract-factory/src/main/java
+2020-11-20 12:09:09,191 [Worker-18: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abstract-factory/src/test/java
+2020-11-20 12:09:09,345 [Worker-18: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-11-20 12:09:10,582 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:09:10,583 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/abstract-factory/src/main/resources
+2020-11-20 12:09:10,585 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:09:10,585 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/abstract-factory/src/test/resources
+2020-11-20 12:09:10,717 [Worker-26: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/f7/lht8z63s5px_tmx72y8t_cdr0000gn/T/RemoteBundleDiscoveryStrategy18193269707297326367.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_4795359351865919368.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2020-11-20 12:09:10,718 [Worker-26: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2020-11-20 12:09:10,721 [Worker-26: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/f7/lht8z63s5px_tmx72y8t_cdr0000gn/T/RemoteBundleDiscoveryStrategy18193269707297326367.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_4795359351865919368.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2020-11-20 12:09:10,722 [Worker-26: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2020-11-20 12:09:10,723 [Worker-26: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/f7/lht8z63s5px_tmx72y8t_cdr0000gn/T/RemoteBundleDiscoveryStrategy18193269707297326367.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_4795359351865919368.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2020-11-20 12:09:10,724 [Worker-26: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2020-11-20 12:09:10,749 [Worker-26: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/f7/lht8z63s5px_tmx72y8t_cdr0000gn/T/RemoteBundleDiscoveryStrategy18193269707297326367.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_4795359351865919368.jar!/lifecycle%2Forg.eclipse.m2e.discovery.extras.m2e-chromatic.xml
+2020-11-20 12:09:10,750 [Worker-26: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.extras.m2e-chromatic does not contain lifecycle mapping metadata
+2020-11-20 12:15:42,039 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-20 12:15:42,683 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iluwatar:factory:1.24.0-SNAPSHOT @ /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory/pom.xml.
+2020-11-20 12:15:43,115 [Worker-30: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /factory/src/main/java
+2020-11-20 12:15:43,121 [Worker-30: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /factory/src/test/java
+2020-11-20 12:15:43,269 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-11-20 12:15:43,830 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:15:43,830 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory/src/main/resources
+2020-11-20 12:15:43,832 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:15:43,833 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory/src/test/resources
+2020-11-20 12:16:16,351 [Worker-32: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-20 12:16:16,623 [Worker-32: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iluwatar:factory-kit:1.24.0-SNAPSHOT @ /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory-kit/pom.xml.
+2020-11-20 12:16:16,831 [Worker-32: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /factory-kit/src/main/java
+2020-11-20 12:16:16,837 [Worker-32: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /factory-kit/src/test/java
+2020-11-20 12:16:16,979 [Worker-32: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-20 12:16:17,442 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:16:17,442 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory-kit/src/main/resources
+2020-11-20 12:16:17,444 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:16:17,444 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory-kit/src/test/resources
+2020-11-20 12:17:10,360 [Worker-29: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-20 12:17:10,691 [Worker-29: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iluwatar:factory-method:1.24.0-SNAPSHOT @ /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory-method/pom.xml.
+2020-11-20 12:17:10,889 [Worker-29: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /factory-method/src/main/java
+2020-11-20 12:17:10,895 [Worker-29: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /factory-method/src/test/java
+2020-11-20 12:17:11,047 [Worker-29: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-20 12:17:11,533 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:17:11,533 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory-method/src/main/resources
+2020-11-20 12:17:11,536 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:17:11,536 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/Documents/JavaPractice/java-design-patterns-master/factory-method/src/test/resources
+2020-11-20 12:26:50,684 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/pom.xml
+2020-11-20 12:26:51,372 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amrita:DesignPatterns:0.0.1-SNAPSHOT @ /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/pom.xml.
+2020-11-20 12:26:51,467 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DesignPatterns/src/main/java
+2020-11-20 12:26:51,472 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DesignPatterns/src/test/java
+2020-11-20 12:26:51,527 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2020-11-20 12:26:51,927 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:26:51,928 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-20 12:26:51,931 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:26:51,931 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-20 12:27:38,391 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:27:38,393 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-20 12:27:38,395 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:27:38,396 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-20 12:37:26,601 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:37:26,607 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-20 12:37:26,625 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:37:26,625 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-20 12:37:33,007 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:37:33,007 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-20 12:37:33,010 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 12:37:33,010 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-20 23:51:11,624 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 23:51:11,836 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-20 23:51:11,843 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 23:51:11,843 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-20 23:54:31,822 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 23:54:31,825 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-20 23:54:31,828 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-20 23:54:31,828 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 00:00:03,976 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:00:04,045 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 00:00:04,070 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:00:04,071 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 00:01:15,106 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:01:15,108 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 00:01:15,109 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:01:15,110 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 00:01:33,919 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:01:33,919 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 00:01:33,922 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:01:33,923 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 00:08:00,183 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:08:00,185 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 00:08:00,188 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:08:00,188 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 00:09:02,390 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:09:02,393 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 00:09:02,432 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:09:02,433 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 00:13:40,389 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:13:40,392 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 00:13:40,403 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:13:40,403 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 00:24:25,821 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:24:25,824 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 00:24:25,826 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 00:24:25,827 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:27:56,299 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:27:56,333 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:27:56,350 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:27:56,350 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:28:18,066 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:28:18,070 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:28:18,123 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:28:18,123 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:28:35,593 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:28:35,596 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:28:35,599 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:28:35,599 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:29:25,122 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:29:25,126 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:29:25,130 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:29:25,131 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:29:34,908 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:29:34,908 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:29:34,910 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:29:34,910 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:31:27,816 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:31:27,822 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:31:27,828 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:31:27,828 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:40:11,679 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:40:11,683 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:40:11,689 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:40:11,689 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:40:57,140 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:40:57,141 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:40:57,143 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:40:57,143 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:41:11,144 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:41:11,145 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:41:11,146 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:41:11,147 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:42:01,474 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:42:01,474 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:42:01,476 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:42:01,476 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:42:49,834 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:42:49,838 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:42:49,841 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:42:49,841 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:43:19,559 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:43:19,565 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:43:19,572 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:43:19,572 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:43:51,923 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:43:51,933 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:43:51,959 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:43:51,961 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:44:03,405 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:44:03,406 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:44:03,410 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:44:03,412 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:45:05,203 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:45:05,204 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:45:05,206 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:45:05,207 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:54:40,964 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:54:40,967 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:54:40,971 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:54:40,971 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:54:43,665 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:54:43,666 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:54:43,668 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:54:43,668 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:58:10,225 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:58:10,227 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:58:10,229 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:58:10,230 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 18:58:22,552 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:58:22,554 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 18:58:22,575 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 18:58:22,575 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:05:03,608 [Worker-99: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amrita:DesignPatterns:0.0.1-SNAPSHOT @ /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/pom.xml.
+2020-11-21 19:05:03,942 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:05:03,942 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:05:03,952 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:05:03,952 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:05:04,786 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:05:04,786 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:05:04,788 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:05:04,788 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:05:05,327 [Worker-97: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1-sources.jar
+2020-11-21 19:05:05,389 [Worker-97: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1-sources.jar
+2020-11-21 19:05:05,423 [Worker-97: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:2.0.0-alpha1
+2020-11-21 19:05:05,823 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:05:05,823 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:05:05,826 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:05:05,826 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:12:36,144 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:12:36,149 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:12:36,150 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:12:36,150 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:15:17,166 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:15:17,169 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/main/resources
+2020-11-21 19:15:17,172 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:15:17,172 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/JavaSamples/src/test/resources
+2020-11-21 19:15:52,904 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:15:52,907 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:15:52,909 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:15:52,910 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:15:59,769 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:15:59,771 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:15:59,774 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:15:59,775 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:17:06,416 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:17:06,420 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:17:06,423 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:17:06,424 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:17:47,347 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:17:47,348 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:17:47,349 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:17:47,350 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:18:16,836 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:18:16,837 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:18:16,838 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:18:16,838 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:21:51,307 [Worker-109: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amrita:DesignPatterns:0.0.1-SNAPSHOT @ /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/pom.xml.
+2020-11-21 19:21:51,482 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:21:51,484 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:21:51,644 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:21:51,644 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:21:52,220 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:21:52,221 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:21:52,224 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:21:52,224 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:21:52,679 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha0/slf4j-api-2.0.0-alpha0-sources.jar
+2020-11-21 19:21:52,827 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha0/slf4j-api-2.0.0-alpha0-sources.jar
+2020-11-21 19:21:52,876 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:2.0.0-alpha0
+2020-11-21 19:21:52,991 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/2.0.0-alpha0/slf4j-simple-2.0.0-alpha0-sources.jar
+2020-11-21 19:21:53,033 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/2.0.0-alpha0/slf4j-simple-2.0.0-alpha0-sources.jar
+2020-11-21 19:21:53,078 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:2.0.0-alpha0
+2020-11-21 19:21:53,208 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/2.0.0-alpha0/slf4j-log4j12-2.0.0-alpha0-sources.jar
+2020-11-21 19:21:53,272 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/2.0.0-alpha0/slf4j-log4j12-2.0.0-alpha0-sources.jar
+2020-11-21 19:21:53,295 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-log4j12:2.0.0-alpha0
+2020-11-21 19:21:54,262 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:21:54,262 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:21:54,264 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:21:54,265 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:22:29,369 [Worker-109: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amrita:DesignPatterns:0.0.1-SNAPSHOT @ /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/pom.xml.
+2020-11-21 19:22:29,457 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:22:29,457 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:22:29,460 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:22:29,460 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:22:29,906 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:22:29,906 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:22:29,907 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:22:29,908 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:22:42,675 [Worker-112: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amrita:DesignPatterns:0.0.1-SNAPSHOT @ /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/pom.xml.
+2020-11-21 19:22:42,722 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:22:42,722 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:22:42,723 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:22:42,723 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:23:13,916 [Worker-109: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amrita:DesignPatterns:0.0.1-SNAPSHOT @ /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/pom.xml.
+2020-11-21 19:23:13,981 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:23:13,982 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:23:13,983 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:23:13,983 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:23:14,213 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:23:14,213 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:23:14,214 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:23:14,214 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:23:53,203 [Worker-112: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amrita:DesignPatterns:0.0.1-SNAPSHOT @ /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/pom.xml.
+2020-11-21 19:23:53,258 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:23:53,258 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:23:53,260 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:23:53,260 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:25:45,756 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:25:45,756 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:25:45,758 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:25:45,758 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:43:58,519 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:43:58,527 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:43:58,528 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:43:58,529 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:47:41,319 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:47:41,320 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:47:41,322 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:47:41,322 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:49:01,092 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:49:01,094 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:49:01,095 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:49:01,096 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:49:13,720 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:49:13,720 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:49:13,722 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:49:13,722 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:49:54,054 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:49:54,054 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:49:54,055 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:49:54,055 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:51:03,377 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:51:03,379 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:51:03,384 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:51:03,385 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:51:58,541 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:51:58,545 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:51:58,553 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:51:58,554 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:53:46,012 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:53:46,013 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:53:46,015 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:53:46,015 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:54:03,511 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:54:03,512 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:54:03,513 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:54:03,513 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:54:18,017 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:54:18,017 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:54:18,021 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:54:18,021 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:54:29,697 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:54:29,697 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:54:29,698 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:54:29,698 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:55:25,359 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:55:25,362 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:55:25,368 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:55:25,368 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 19:57:12,641 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:57:12,641 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 19:57:12,643 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 19:57:12,643 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 22:55:35,822 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 22:55:35,828 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 22:55:35,844 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 22:55:35,844 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
+2020-11-21 22:59:58,425 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 22:59:58,427 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/main/resources
+2020-11-21 22:59:58,428 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-21 22:59:58,429 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amritasrivastava/eclipse-workspace-JavaPractice/DesignPatterns/src/test/resources
